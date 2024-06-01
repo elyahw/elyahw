@@ -2,6 +2,10 @@
 
 #### It is the responsibility of the information engineer to protect others from online evils.
 
+«I am the light of the world. Whoever follows me does not walk in darkness but has the light of life» (Jn 8:12)
+
+«I am the way and the truth and the life» (Jn 14:6)
+
 Please visit my blog: <a href="https://stelijah.co.uk/"><b>https://stelijah.co.uk/</b></a>
 
 <table>
