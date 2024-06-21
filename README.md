@@ -19,7 +19,7 @@
         </td>
         <td>
             <a href="https://github.com/Evangelisation">
-            <img src="./assets/Annunciation of the Theotokos.jpg" alt="Annunciation of the Theotokos" width="50%" style="border: 0px black dotted; border-radius: 0px; padding: 0px;" />
+            <img src="./assets/Holy-Bible.png" alt="Holy-Bible" width="50%" style="border: 0px black dotted; border-radius: 0px; padding: 0px;" /> <!-- Annunciation of the Theotokos.jpg -->
             </a>
         </td>
         <td>
