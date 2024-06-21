@@ -14,7 +14,7 @@
     <tr>
         <td>
             <a href="https://github.com/Pornography-Protection">
-            <img src="./assets/Archangel Michael.jpg" alt="Archangel Michael" width="50%" style="border: 0px black dotted; border-radius: 0px; padding: 0px;" />
+            <img src="./assets/shield-of-God.png" alt="shield-of-God" width="50%" style="border: 0px black dotted; border-radius: 0px; padding: 0px;" /> <!-- was Archangel Michael.jpg -->
             </a>
         </td>
         <td>
