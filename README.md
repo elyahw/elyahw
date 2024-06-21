@@ -24,7 +24,7 @@
         </td>
         <td>
             <a href="https://github.com/Writing-Tools">
-            <img src="./assets/Dove.png" alt="Dove" width="50%" style="border: 0px black dotted; border-radius: 0px; padding: 0px;" /> <!-- SaintJohntheTheologian.png -->
+            <img src="./assets/dove-peace.png" alt="dove-peace" width="50%" style="border: 0px black dotted; border-radius: 0px; padding: 0px;" /> <!-- SaintJohntheTheologian.png -->
             </a>
         </td>
     </tr>
