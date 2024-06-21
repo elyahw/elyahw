@@ -6,9 +6,7 @@
 
 * It is the responsibility of the information engineer to protect others from online evils.
 
-* Please visit my blog: <a href="https://stelijah.co.uk/"><b>https://stelijah.co.uk/</b></a>
-
-* Please visit:
+* Welcome to visit: <a href="https://stelijah.co.uk/"><b>https://stelijah.co.uk/</b></a>
 
 <table>
     <tr>
