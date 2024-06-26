@@ -4,9 +4,7 @@
 
 «I am the way and the truth and the life» (Jn 14:6)
 
-* It is the responsibility of the information engineer to protect others from online evils.
-
-* <a href="https://stelijah.co.uk/"><b>https://stelijah.co.uk/</b></a>
+It is the responsibility of the information engineer to protect others from online evils.
 
 <table>
     <tr>
